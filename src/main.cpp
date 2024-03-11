@@ -4,10 +4,10 @@
 #include <iostream>
 #include <conio.h>
 
-#include "Screen.h"
-#include "camera.h"
-#include "vec2.h"
-#include "worldMap.h"
+#include "C:\raycast-2d\include\Screen.h"
+#include "C:\raycast-2d\include\camera.h"
+#include "C:\raycast-2d\include\vec2.h"
+#include "C:\raycast-2d\include\worldMap.h"
 
 
 //place the example code below here:
