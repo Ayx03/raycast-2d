@@ -1,0 +1,5 @@
+C:/raycast-2d/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/raycast-2d/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/raycast-2d/cmake-build-debug/src/CMakeFiles/raycast-2d.dir
+C:/raycast-2d/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/raycast-2d/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
